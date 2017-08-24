@@ -6,7 +6,7 @@ Serie de micro videos para aprender los fundamentos de JavaScript.
 
 ## Recomendación para aprender
 
-Además de ver los videos, se recomienda escribir el código.
+Además de ver los videos, se recomienda **escribir el código**.
 Escribir sirve para afianzar los conceptos. 
 
 **Para aprender hay que practicar!**
